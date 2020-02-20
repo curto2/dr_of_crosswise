@@ -6,7 +6,7 @@
 import numpy as c
 import time as t
 from sklearn import metrics
-from sklearn.datasets import fetch_mldata as ml
+from sklearn.datasets import fetch_openml as ml
 from sklearn.ensemble import RandomForestClassifier
 
 ratio_of_features = 2;
@@ -28,7 +28,7 @@ def c_and_z(A, B):
 	return C
 
 def run():
-	mnist = ml('MNIST original')
+	mnist = ml('mnist_784')
 	n_train = 60000
 	n_test = 10000
 
