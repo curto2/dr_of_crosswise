@@ -30,4 +30,4 @@ File Information
 --------------------------------------------------------
 
 - c_and_z.py
-  - Toy example demonstrating the use of the newly developed operand. A network motivated by <a href="github.com/curto2/mckernel">McKernel</a> is used. Weights are kept random, for simplicity.
+  - Toy example demonstrating the use of the newly developed operand. A network motivated by <a href="https://www.github.com/curto2/mckernel">McKernel</a> is used. Weights are kept random, for simplicity.
