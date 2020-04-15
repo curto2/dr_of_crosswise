@@ -1,7 +1,7 @@
 #   Doctor of Crosswise: Reducing Over-parametrization in Neural Networks.		    
 #										
 #   Authors: Curtó and Zarza.
-#   c@decurto.ch z@dezarza.ch 						    
+#   c@decurto.tw z@dezarza.tw 						    
 
 import numpy as c
 import time as t

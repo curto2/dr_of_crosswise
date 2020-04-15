@@ -8,7 +8,7 @@ Doctor of Crosswise: Reducing Over-parametrization in Neural Networks.
 
 For more details about the publication, visit the website:
 
-  http://decurto.ch
+  www.decurto.tw
 
 If you find this example useful, please cite the paper below:
 
@@ -30,4 +30,4 @@ File Information
 --------------------------------------------------------
 
 - c_and_z.py
-  - Toy example demonstrating the use of the newly developed operand. A network motivated by <a href="https://github.com/curto2/mckernel">McKernel</a> is used. Weights are kept random, for simplicity.
+  - Toy example demonstrating the use of the newly developed operand. A network motivated by <a href="github.com/curto2/mckernel">McKernel</a> is used. Weights are kept random, for simplicity.
